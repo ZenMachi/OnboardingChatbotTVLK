@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OnboardingChatbotTVLK</string>
+    <string name="description1">Our Bot chat are designed \nto answer your question about this service</string>
+    <string name="description2">No Need to wait for our customer service reply</string>
+    <string name="description3">What are You waiting for?</string>
+    <string name="title1">Need Help?</string>
+    <string name="title2">With Instant</string>
+    <string name="title3">Let\'s Start</string>
+</resources>
